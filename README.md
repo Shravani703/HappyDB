@@ -1,4 +1,4 @@
-##My final Tableau dahsboard that explores what influences happiness:
+## My final Tableau dahsboard that explores what influences happiness:
 https://public.tableau.com/app/profile/shravani.bheema/viz/WhatMakesPeopleHappy/Dashboard1
 
 ##About the dataset:
@@ -34,38 +34,3 @@ Basic statistics of HappyDB are shown in the table.
 | # distinct words | 38,188 |
 | Avg. # happy moments / user | 9.31 |
 | Avg. # words / happy moment | 19.66 |
-
-
-## How to Download
-
-You can download the dataset by using `git` command or simply downloading the file from the repository.
-
-```
-$ git clone <git-repository-path>
-```
-
-## Directory Structure
-
-After you clone or download the repository, you will see the following file structure.
-
-```
-happydb
-└── data
-    ├── cleaned_hm.csv
-    ├── demographic.csv
-    ├── original_hm.csv
-    ├── senselabel.csv
-    ├── topic_dict
-    │   ├── entertainment-dict.csv
-    │   ├── exercise-dict.csv
-    │   ├── family-dict.csv
-    │   ├── food-dict.csv
-    │   ├── people-dict.csv
-    │   ├── pets-dict.csv
-    │   ├── school-dict.csv
-    │   ├── shopping-dict.csv
-    │   └── work-dict.csv
-    └── vad.csv
-```
-
-HappyDB consists of a set of CSV files. Here are schema descriptions of the files.
