@@ -1,7 +1,7 @@
 ## My final Tableau dashboard that explores what influences happiness:
 https://public.tableau.com/app/profile/shravani.bheema/viz/WhatMakesPeopleHappy/Dashboard1
 
-##About the dataset:
+## About the dataset:
 HappyDB is a corpus of 100,000+ crowd-sourced happy moments. The goal of the corpus is to advance the state of the art of understanding the causes of happiness that can be gleaned from text. Please see also our [web site](http://rebrand.ly/happydb)
 
 
