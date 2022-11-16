@@ -1,4 +1,4 @@
-## My final Tableau dahsboard that explores what influences happiness:
+## My final Tableau dashboard that explores what influences happiness:
 https://public.tableau.com/app/profile/shravani.bheema/viz/WhatMakesPeopleHappy/Dashboard1
 
 ##About the dataset:
